@@ -1,0 +1,13 @@
+Package: multispike
+Title: Multiple Spike-In Predictions
+Version: 0.1.0
+Authors@R: c(
+    person("Grant", "Hopkins", role = c("aut", "cre"),
+           email = "hopkinsg@uw.edu"),
+    person("Amy", "Willis", role = "aut")
+    )
+Description: Predicts cell counts from distorted concentrations using multiple
+    spike-in taxa and constructs multiplicative prediction intervals.
+License: MIT + file LICENSE
+Encoding: UTF-8
+RoxygenNote: 7.3.2
